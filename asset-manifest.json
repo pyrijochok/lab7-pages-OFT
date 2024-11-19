@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/lab7-pages-OFT/static/css/main.31d6cfe0.css",
+    "main.js": "/lab7-pages-OFT/static/js/main.c40bb937.js",
+    "index.html": "/lab7-pages-OFT/index.html",
+    "main.c40bb937.js.map": "/lab7-pages-OFT/static/js/main.c40bb937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c40bb937.js"
+  ]
+}
